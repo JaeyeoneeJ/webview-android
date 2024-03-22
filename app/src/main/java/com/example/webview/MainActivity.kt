@@ -26,7 +26,6 @@ class MainActivity : AppCompatActivity() {
             } else {
                 // 권한이 거부된 경우 처리할 작업 수행
                 showCameraPermissionDeniedAlert()
-
             }
 
         }
